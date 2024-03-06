@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" focusable="false" width="31" height="31" viewBox="0 0 31 31">
+    <g fill="none" fill-rule="evenodd">
+        <g fill="#00A3E0">
+            <path d="M9.545 0H11.454V21H9.545z" transform="rotate(-45 19.036 6.964)"></path>
+            <path d="M9.545 0L11.455 0 11.455 21 9.545 21z" transform="rotate(-45 19.036 6.964) rotate(90 10.5 10.5)"></path>
+        </g>
+    </g>
+</svg>
